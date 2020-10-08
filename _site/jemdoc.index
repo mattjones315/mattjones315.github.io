@@ -1,0 +1,41 @@
+# jemdoc: menu{MENU}{jemdoc.index.html}
+= Matthew G. Jones
+
+~~~
+{}{img_left}{headshot.png}{100pm}{150}{Matthew G Jones}
+Matthew G. Jones
+Bioinformatics PhD Candidate
+UC San Francisco & UC Berkeley
+~~~
+
+== About Me
+I am a Bioinformatics PhD candidate at UC San Francisco and UC Berkeley, advised by [https://weissmanlab.ucsf.edu/ Jonathan Weissman] and [https://niryosef.wordpress.com/ Nir Yosef]. Generally, I'm interested in studying cancer & the immune system from the perpsective of high-throughput assays (mostly transcriptomics).
+
+My current research is focused on developing suitable technologies and computational tools for studying how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body. In this, I am the lead contributor to [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data.
+
+As of summer 2020, I am a research intern at [https://research.google/teams/health/ Google Brain Genomics] working on deep learning methods for Electronic Health Record (EHR) data.
+
+Before my PhD, I studied Computer Science at UC Berkeley and worked in the Nielsen Lab on developing simulators for large admixture events. And before that, I grew up in a small town outside of Pasadena, CA where I was a tri-sport athelete and musician.
+
+== Research Interests
+- Applied Statistics (i.e, Machine Learning)
+- CRISPR/Cas9 Technology / Engineering
+- Cancer
+- Genomics
+- Immunology
+- Population Genetics
+
+Read more [projects.html here].
+
+== Selected Publications
+1.[https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02000-8 Inference of Single Cell Phylogenies from Lineage Tracing Data with Cassiopeia.] *Matthew G Jones**, Jeffrey J Quinn*, Alex Khodaverdian*, Michelle M Chan, Jeffrey A Hussmann, Robert Wang, Chenling Xu, Jonathan S Weissman, Nir Yosef. /Genome Biology./ 2020.
+
+2. [https://www.biorxiv.org/content/10.1101/2020.04.16.045245v1 Continuous lineage recording reveals rapid, multidirectional metastasis in a lung cancer xenograft model in mouse.] Jeffrey J. Quinn*, *Matthew G Jones**, Ross A Okimoto, Nir Yosef, Trever G Bivona, Jonathan S Weissman. /bioRxiv/. 2020.
+
+3. [https://www.nature.com/articles/s41467-019-12235-0 Functional interpretation of single cell similarity maps.] David DeTomaso*, *Matthew G Jones**, Meena Subramaniam, Tal Ashuach, Chun J. Ye, Nir Yosef. /Nat. Comm./ 2019.
+
+Find my full publication list [publications.html here].
+
+== Beyond Science
+
+In my downtime, you can find me engrossed in a [booklist.html book], playing guitar, listening to my records. I often am looking for an excuse to get outside, or to travel.
