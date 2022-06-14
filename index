@@ -1,27 +1,27 @@
 # jemdoc: menu{MENU}{index.html}
-= Matthew G. Jones
+= Matthew G. Jones, PhD
 
 ~~~
-{}{img_left}{headshot.jpg}{250px}{250px}
+{}{img_left}{headshot_cropped.png}{250px}{250px}
 
 
 == About Me
-I am a Bioinformatics PhD candidate at UC San Francisco and UC Berkeley, advised by [https://weissmanlab.ucsf.edu/ Jonathan Weissman] and [https://niryosef.wordpress.com/ Nir Yosef]. Generally, I'm interested in studying cancer & the immune system from the perspective of high-throughput assays (mostly transcriptomics).
+I am a Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq).
 
-My current research is focused on developing suitable technologies and computational tools for studying how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body. In this, I am the lead contributor to [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data.
+My current research focuses on how tumors dynamically regulate extrachromosomal oncogene amplifications through a disease course. Previously, I developed single-cell evolving lineage tracing technologies and computational tools for studying how aggressive cnacers evolve from a single transformed cell and a single transformed cell and eventually metastasize throughout a body. In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data.  .
 
 In 2020, I spent the summer as a research intern at [https://research.google/teams/health/ Google Brain Genomics] working on deep learning methods for Electronic Health Record (EHR) data.
 
-Before my PhD, I studied Computer Science at UC Berkeley and worked in the Nielsen Lab on developing simulators for large admixture events. And before that, I grew up in a small town outside of Pasadena, CA where I was a tri-sport athelete and musician.
+Previously, I completed my PhD in Bioinformatics at UC San Francisco and UC Berkeley advised by [https://weissman.wi.mit.edu/ Jonathan Weissman] and [https://yoseflab.github.io/ Nir Yosef]. Before my graduate work, I studied Computer Science at UC Berkeley and worked in the Nielsen Lab on developing simulators for large admixture events. And before that, I grew up in a small town outside of Pasadena, CA where I was a tri-sport athelete and musician.
 ~~~
 
 
 == Research Interests
+- Cancer Evolution
 - Cancer Immunology
 - CRISPR\/Cas9 Technology & Engingeering
 - Applied Statistics (i.e, Machine Learning)
-- Genomics
-- Population Genetics
+- Population Genetics & Evolutionary Theory
 
 == Selected Publications
 . [https://www.sciencedirect.com/science/article/pii/S0092867422004627 Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution.] Dian Yang\*, *Matthew G Jones*\*, ..., Nir Yosef, Tyler Jacks, Jonathan S Weissman. /Cell./ 2022
