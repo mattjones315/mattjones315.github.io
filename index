@@ -2,13 +2,13 @@
 = Matthew G. Jones, PhD
 
 ~~~
-{}{img_left}{headshot_cropped.png}{250px}{250px}
+{}{img_left}{headshot_cropped2.png}{250px}{250px}
 
 
 == About Me
 I am a Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq), lineage-tracing technologies, and new computational tools and inference techniques.
 
-My current research focuses on understanding how distinct lineages, at the molecular and cellular level, are interwoven in tumor progression, and how this relates to therapeutic resistance. Previously, I developed single-cell evolving lineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
+My current research focuses on building more predictive models of tumor evolution, with a focus on how extrachromosomal DNA (ecDNA) reshape traditional rules of inheritance to accelerate tumor evolution and overcome targeted therapies. Previously, I developed single-cell evolving lineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
 
 In 2020, I spent the summer as a research intern at [https://research.google/teams/health/ Google Brain Genomics] working on deep learning methods for Electronic Health Record (EHR) data.
 
