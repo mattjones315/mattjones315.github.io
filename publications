@@ -5,7 +5,9 @@ Likely my [https://scholar.google.com/citations?user=0dvQ0rUAAAAJ&hl=en Google S
 
 == 2023
 
-[https://www.annualreviews.org/doi/abs/10.1146/annurev-cancerbio-061421-123301 New Tools for Lineage Tracing in Cancer In Vivo.] *Matthew G Jones*\*, Dian Yang\*, Jonathan Weissman. /Annual Reviews in Cancer./ 2023
+[https://www.nature.com/articles/s41576-023-00586-w Best practices for single-cell analysis across modalities.] Lukas Heumos\*, Anna C. Schaar\*, ..., *Single-cell Best Practices Consortium*, Fabian J. Theis. /Nature Reviews Genetics./ 2023. 
+
+[https://www.annualreviews.org/doi/abs/10.1146/annurev-cancerbio-061421-123301 New Tools for Lineage Tracing in Cancer In Vivo.] *Matthew G Jones*\*, Dian Yang\*, Jonathan Weissman. /Annual Reviews in Cancer./ 2023.
 
 [https://www.sc-best-practices.org/trajectories/lineage_tracing.html Lineage Tracing.] *Matthew G. Jones*\*, Zoe Piran\*. /[https://www.sc-best-practices.org/preamble.html Single-cell best practices]/. 2023.
 
@@ -40,3 +42,6 @@ Likely my [https://scholar.google.com/citations?user=0dvQ0rUAAAAJ&hl=en Google S
 == Before 2019
 
 [https://academic.oup.com/bioinformatics/article-abstract/32/19/3035/2196613 SELAM: simulation of epistasis and local adapation during admixture with mate choice.] Russell Corbett-Detig, *Matt Jones*. /Bioinformatics/. 2016.
+
+== PhD Thesis
+[https://www.proquest.com/openview/06a1f8348f6d71b083d5441a76ad0d6d/1?pq-origsite=gscholar&cbl=18750&diss=y Following Tumor Progression Step-By-Step with CRISPR/Cas9-Based Single-Cell Lineage Tracing Technologies and Improved Computational Methods]. *Matthew G. Jones*. 2022.
