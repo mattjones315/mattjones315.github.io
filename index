@@ -6,7 +6,7 @@
 
 
 == About Me
-I am a Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq), lineage-tracing technologies, and new computational tools and inference techniques.
+I am an NCI K99/R00 Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq), lineage-tracing technologies, and new computational tools and inference techniques.
 
 My current research focuses on building more predictive models of tumor evolution, with a focus on how extrachromosomal DNA (ecDNA) reshape traditional rules of inheritance to accelerate tumor evolution and overcome targeted therapies. Previously, I developed single-cell evolving lineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
 
@@ -24,6 +24,7 @@ Previously, I completed my PhD in Bioinformatics at UC San Francisco and UC Berk
 - Population Genetics & Evolutionary Theory
 
 == Selected Publications
+. [https://www.biorxiv.org/content/10.1101/2023.07.18.549597v1 Coordinated inheritance of extrachromosomal DNA species in human cancer cells.] King L Hung\*, *Matthew G Jones*\*, Ivy Tzo-Lo Wong\*, EJ Curtis\*, ..., Paul S Mischel, Howard Y Chang. /BioRxiv./ 2023
 . [https://www.sciencedirect.com/science/article/pii/S0092867422004627 Lineage Recording Reveals the Phylodynamics, Plasticity and Paths of Tumor Evolution.] Dian Yang\*, *Matthew G Jones*\*, ..., Nir Yosef, Tyler Jacks, Jonathan S Weissman. /Cell./ 2022
 . [https://science.sciencemag.org/content/early/2021/01/21/science.abc1944/ Single-cell lineages reveal the rates, routes, and drivers of metastasis in cancer xenografts.] Jeffrey J. Quinn\*, *Matthew G Jones*\*, Ross A Okimoto, Shigeki Nanjo, Michelle M Chan, Nir Yosef, Trever G Bivona, Jonathan S Weissman. /Science/. 2021.
 . [https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02000-8 Inference of Single Cell Phylogenies from Lineage Tracing Data with Cassiopeia.] *Matthew G Jones*\*, Jeffrey J Quinn\*, Alex Khodaverdian\*, Michelle M Chan, Jeffrey A Hussmann, Robert Wang, Chenling Xu, Jonathan S Weissman, Nir Yosef. /Genome Biology./ 2020.
