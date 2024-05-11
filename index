@@ -6,9 +6,9 @@
 
 
 == About Me
-I am an NCI K99/R00 Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq), lineage-tracing technologies, and new computational tools and inference techniques.
+I am an NCI K99/R00 Postdoctoral Scholar at Stanford University in [https://profiles.stanford.edu/howard-chang Howard Chang's lab]. Generally, I am interested in studying how tumors evolve over time, especially under various pressures exerted by the immune system and therapies. My work typically takes advantage of high-throughput sequencing assays (e.g., scRNA-seq and spatial transcriptomics), lineage-tracing technologies, and new computational tools and inference techniques.
 
-My current research focuses on building more predictive models of tumor evolution, with a focus on how extrachromosomal DNA (ecDNA) reshape traditional rules of inheritance to accelerate tumor evolution and overcome targeted therapies. Previously, I developed single-cell evolving lineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
+My current research focuses on building more predictive models of tumor evolution, with a focus on how extrachromosomal DNA (ecDNA) reshape traditional rules of inheritance to accelerate tumor evolution and overcome targeted therapies. A key outcome of my research thus far is contributing to the discovery that circular, oncogenic extrachromosomal DNA (ecDNA) ampliciations are often co-inherited during mitosis, leading to non-coding oncogenic amplifications and new therapeutic opportunities. Previously, I developed single-cell evolvinglineage tracing technologies and computational tools.  In this, I developed [https://github.com/YosefLab/Cassiopeia Cassiopeia], a software suite for reconstructing single-cell phylogenies from continuous CRISPR/Cas9 barcoding data. We used these tools to study how aggressive cancers evolve from a single transformed cell and eventually metastasize throughout a body.
 
 In 2020, I spent the summer as a research intern at [https://research.google/teams/health/ Google Brain Genomics] working on deep learning methods for Electronic Health Record (EHR) data.
 
@@ -19,9 +19,8 @@ Previously, I completed my PhD in Bioinformatics at UC San Francisco and UC Berk
 == Research Interests
 - Cancer evolution
 - Cancer immunology
-- Long read sequencing technologies
-- Genomics 
-- Gene editing technology & engineering
+- Genomics technology
+- Gene editing technology (e.g., lineage tracing)
 
 == Selected Publications
 . [https://www.biorxiv.org/content/10.1101/2023.07.18.549597v1 Coordinated inheritance of extrachromosomal DNA species in human cancer cells.] King L Hung\*, *Matthew G Jones*\*, Ivy Tzo-Lo Wong\*, EJ Curtis\*, ..., Paul S Mischel, Howard Y Chang. /BioRxiv./ 2023
